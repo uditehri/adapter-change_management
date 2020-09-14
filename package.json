@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/uditehri/adapter-change_management/issues"
   },
-  "homepage": "https://github.com/uditehri/adapter-change_management#readme"
+  "homepage": "https://github.com/uditehri/adapter-change_management#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
